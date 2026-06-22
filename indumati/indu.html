@@ -1,0 +1,304 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>College Management System - API Test</title>
+    <style>
+        * {
+            box-sizing: border-box;
+            font-family: system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif;
+        }
+        body {
+            background: #f0f2f5;
+            margin: 0;
+            padding: 20px;
+        }
+        .container {
+            max-width: 1000px;
+            margin: 0 auto;
+            display: flex;
+            flex-wrap: wrap;
+            gap: 20px;
+        }
+        .card {
+            background: white;
+            border-radius: 16px;
+            box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+            padding: 20px;
+            flex: 1 1 300px;
+        }
+        .card h2 {
+            margin-top: 0;
+            border-bottom: 2px solid #2563eb;
+            display: inline-block;
+            padding-bottom: 5px;
+        }
+        input, select, button {
+            width: 100%;
+            padding: 10px;
+            margin: 8px 0;
+            border: 1px solid #ccc;
+            border-radius: 8px;
+            font-size: 14px;
+        }
+        button {
+            background: #2563eb;
+            color: white;
+            border: none;
+            cursor: pointer;
+            font-weight: bold;
+        }
+        button:hover {
+            background: #1d4ed8;
+        }
+        pre {
+            background: #1e1e2f;
+            color: #f8f8f2;
+            padding: 12px;
+            border-radius: 12px;
+            overflow-x: auto;
+            font-size: 12px;
+        }
+        .status {
+            font-size: 12px;
+            padding: 6px;
+            border-radius: 6px;
+            margin-top: 10px;
+        }
+        .success {
+            background: #d1fae5;
+            color: #065f46;
+        }
+        .error {
+            background: #fee2e2;
+            color: #991b1b;
+        }
+        hr {
+            margin: 15px 0;
+        }
+        .token-area {
+            background: #fef9c3;
+            padding: 10px;
+            border-radius: 8px;
+            word-break: break-all;
+            font-family: monospace;
+            font-size: 12px;
+        }
+        .note {
+            font-size: 12px;
+            color: #555;
+            margin-top: 8px;
+        }
+    </style>
+</head>
+<body>
+<div class="container">
+    <!-- REGISTER CARD -->
+    <div class="card">
+        <h2>📝 Register Student</h2>
+        <input type="text" id="regName" placeholder="Full Name" value="John Doe">
+        <input type="email" id="regEmail" placeholder="Email" value="john@student.com">
+        <input type="password" id="regPassword" placeholder="Password" value="123456">
+        <input type="text" id="regMobile" placeholder="Mobile (10 digits)" value="9876543210">
+        <input type="text" id="regRoll" placeholder="Roll Number" value="CS2024001">
+        <input type="number" id="regYear" placeholder="Enrollment Year" value="2024">
+        <input type="text" id="regAddress" placeholder="Address" value="New Delhi">
+        <input type="text" id="regGuardian" placeholder="Guardian Name" value="Mr. Sharma">
+        <button onclick="register()">Register</button>
+        <div id="regResult"></div>
+    </div>
+
+    <!-- LOGIN CARD -->
+    <div class="card">
+        <h2>🔐 Login</h2>
+        <input type="email" id="loginEmail" placeholder="Email" value="john@student.com">
+        <input type="password" id="loginPassword" placeholder="Password" value="123456">
+        <button onclick="login()">Login</button>
+        <div id="loginResult"></div>
+        <div id="tokenDisplay" class="token-area" style="display:none;"></div>
+        <div class="note">🔔 Your backend uses /api/v1/auth/*</div>
+    </div>
+
+    <!-- PROTECTED API TEST -->
+    <div class="card">
+        <h2>🛡️ Protected API Test</h2>
+        <select id="apiEndpoint">
+            <option value="GET">GET /api/v1/students (My Profile)</option>
+            <option value="GET_COURSES">GET /api/v1/courses (All Courses)</option>
+            <option value="POST_ATTENDANCE">POST /api/v1/attendance (Mark Attendance)</option>
+            <option value="GET_ATTENDANCE">GET /api/v1/attendance/student/{id}</option>
+        </select>
+        <input type="text" id="apiPathParam" placeholder="Path param (e.g., studentId)" value="1">
+        <textarea id="apiRequestBody" placeholder="Request body (JSON)" rows="3">{
+  "studentId": 1,
+  "courseId": 1,
+  "date": "2026-05-23",
+  "status": "PRESENT"
+}</textarea>
+        <button onclick="callProtectedApi()">Send Request</button>
+        <div id="apiResponse"></div>
+        <hr>
+        <h3>📋 Custom Request</h3>
+        <input type="text" id="customUrl" placeholder="Full URL (e.g., /api/v1/students)" value="/api/v1/students">
+        <select id="customMethod">
+            <option>GET</option>
+            <option>POST</option>
+            <option>PUT</option>
+            <option>DELETE</option>
+        </select>
+        <button onclick="customApiCall()">Execute</button>
+        <div class="note">💡 Modify the URL if your endpoints are under a different prefix (e.g., /api/students).</div>
+    </div>
+</div>
+
+<script>
+    const API_BASE = "http://localhost:8080";
+    let authToken = localStorage.getItem("jwtToken") || null;
+
+    function updateTokenUI() {
+        const tokenDiv = document.getElementById("tokenDisplay");
+        if (authToken) {
+            tokenDiv.style.display = "block";
+            tokenDiv.innerText = "🔑 Current Token: " + authToken.substring(0, 60) + "...";
+        } else {
+            tokenDiv.style.display = "none";
+        }
+    }
+
+    // Register student (matches /api/v1/auth/register)
+    async function register() {
+        const payload = {
+            name: document.getElementById("regName").value,
+            email: document.getElementById("regEmail").value,
+            password: document.getElementById("regPassword").value,
+            mobileNumber: document.getElementById("regMobile").value,
+            rollNumber: document.getElementById("regRoll").value,
+            enrollmentYear: parseInt(document.getElementById("regYear").value),
+            address: document.getElementById("regAddress").value,
+            guardianName: document.getElementById("regGuardian").value
+        };
+        try {
+            const res = await fetch(`${API_BASE}/api/v1/auth/register`, {
+                method: "POST",
+                headers: { "Content-Type": "application/json" },
+                body: JSON.stringify(payload)
+            });
+            const data = await res.json();
+            const resultDiv = document.getElementById("regResult");
+            if (res.ok) {
+                resultDiv.innerHTML = `<div class="status success">✅ Registered: ${data.email} (ID: ${data.id})</div>`;
+            } else {
+                resultDiv.innerHTML = `<div class="status error">❌ Error: ${data.message || JSON.stringify(data)}</div>`;
+            }
+        } catch (err) {
+            document.getElementById("regResult").innerHTML = `<div class="status error">⚠️ ${err.message}</div>`;
+        }
+    }
+
+    // Login (matches /api/v1/auth/login)
+    async function login() {
+        const email = document.getElementById("loginEmail").value;
+        const password = document.getElementById("loginPassword").value;
+        try {
+            const res = await fetch(`${API_BASE}/api/v1/auth/login`, {
+                method: "POST",
+                headers: { "Content-Type": "application/json" },
+                body: JSON.stringify({ email, password })
+            });
+            const data = await res.json();
+            const resultDiv = document.getElementById("loginResult");
+            if (res.ok && data.token) {
+                authToken = data.token;
+                localStorage.setItem("jwtToken", authToken);
+                resultDiv.innerHTML = `<div class="status success">✅ Logged in as ${data.email} (Role: ${data.role})</div>`;
+                updateTokenUI();
+            } else {
+                resultDiv.innerHTML = `<div class="status error">❌ Login failed: ${data.message || "Invalid credentials"}</div>`;
+            }
+        } catch (err) {
+            document.getElementById("loginResult").innerHTML = `<div class="status error">⚠️ ${err.message}</div>`;
+        }
+    }
+
+    // Call protected API with current token
+    async function callProtectedApi() {
+        if (!authToken) {
+            document.getElementById("apiResponse").innerHTML = `<div class="status error">❌ Please login first</div>`;
+            return;
+        }
+        const endpoint = document.getElementById("apiEndpoint").value;
+        let url = "";
+        let options = { headers: { "Authorization": `Bearer ${authToken}`, "Content-Type": "application/json" } };
+        let pathParam = document.getElementById("apiPathParam").value;
+        let body = document.getElementById("apiRequestBody").value;
+
+        switch (endpoint) {
+            case "GET":
+                url = `${API_BASE}/api/v1/students/${pathParam}`;
+                options.method = "GET";
+                break;
+            case "GET_COURSES":
+                url = `${API_BASE}/api/v1/courses?page=0&size=10`;
+                options.method = "GET";
+                break;
+            case "POST_ATTENDANCE":
+                url = `${API_BASE}/api/v1/attendance`;
+                options.method = "POST";
+                options.body = body;
+                break;
+            case "GET_ATTENDANCE":
+                url = `${API_BASE}/api/v1/attendance/student/${pathParam}`;
+                options.method = "GET";
+                break;
+            default:
+                url = `${API_BASE}/api/v1/students`;
+                options.method = "GET";
+        }
+        try {
+            const res = await fetch(url, options);
+            const data = await res.json();
+            document.getElementById("apiResponse").innerHTML = `<pre>${JSON.stringify(data, null, 2)}</pre>`;
+        } catch (err) {
+            document.getElementById("apiResponse").innerHTML = `<div class="status error">${err.message}</div>`;
+        }
+    }
+
+    // Fully custom request
+    async function customApiCall() {
+        if (!authToken) {
+            alert("Please login first");
+            return;
+        }
+        let customUrl = document.getElementById("customUrl").value;
+        let method = document.getElementById("customMethod").value;
+        let fullUrl = customUrl.startsWith("http") ? customUrl : `${API_BASE}${customUrl}`;
+        let body = document.getElementById("apiRequestBody").value;
+        try {
+            const options = {
+                method: method,
+                headers: { "Authorization": `Bearer ${authToken}`, "Content-Type": "application/json" }
+            };
+            if (method !== "GET" && method !== "DELETE" && body.trim()) {
+                options.body = body;
+            }
+            const res = await fetch(fullUrl, options);
+            const contentType = res.headers.get("content-type");
+            let data;
+            if (contentType && contentType.includes("application/json")) {
+                data = await res.json();
+            } else {
+                data = await res.text();
+            }
+            document.getElementById("apiResponse").innerHTML = `<pre>${JSON.stringify(data, null, 2)}</pre>`;
+        } catch (err) {
+            document.getElementById("apiResponse").innerHTML = `<div class="status error">${err.message}</div>`;
+        }
+    }
+
+    window.onload = () => {
+        updateTokenUI();
+    };
+</script>
+</body>
+</html>

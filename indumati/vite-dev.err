@@ -1,0 +1,666 @@
+[2m10:18:08 PM[22m [31m[1m[vite][22m[39m [31mhttp proxy error: /api/v1/students?page=0&size=10&sortBy=id&direction=asc[39m
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1142:49)
+    at afterConnectMultiple (node:net:1723:7)
+[2m10:18:08 PM[22m [31m[1m[vite][22m[39m [31mhttp proxy error: /api/v1/departments/page?page=0&size=100&sortBy=id&direction=asc[39m
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1142:49)
+    at afterConnectMultiple (node:net:1723:7)
+[2m10:18:08 PM[22m [31m[1m[vite][22m[39m [31mhttp proxy error: /api/v1/students?page=0&size=10&sortBy=id&direction=asc[39m
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1142:49)
+    at afterConnectMultiple (node:net:1723:7)
+[2m10:18:08 PM[22m [31m[1m[vite][22m[39m [31mhttp proxy error: /api/v1/departments/page?page=0&size=100&sortBy=id&direction=asc[39m
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1142:49)
+    at afterConnectMultiple (node:net:1723:7)
+[2m10:18:08 PM[22m [31m[1m[vite][22m[39m [31mhttp proxy error: /api/v1/departments?page=0&size=100[39m
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1142:49)
+    at afterConnectMultiple (node:net:1723:7)
+[2m10:18:08 PM[22m [31m[1m[vite][22m[39m [31mhttp proxy error: /api/v1/departments?page=0&size=100[39m
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1142:49)
+    at afterConnectMultiple (node:net:1723:7)
+[2m11:48:26 PM[22m [31m[1m[vite][22m[39m [31mhttp proxy error: /api/v1/departments/page?page=0&size=100&sortBy=id&direction=asc[39m
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1142:49)
+    at afterConnectMultiple (node:net:1723:7)
+[2m11:48:26 PM[22m [31m[1m[vite][22m[39m [31mhttp proxy error: /api/v1/teachers?page=0&size=10&sortBy=id&direction=asc[39m
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1142:49)
+    at afterConnectMultiple (node:net:1723:7)
+[2m11:48:26 PM[22m [31m[1m[vite][22m[39m [31mhttp proxy error: /api/v1/departments/page?page=0&size=100&sortBy=id&direction=asc[39m
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1142:49)
+    at afterConnectMultiple (node:net:1723:7)
+[2m11:48:26 PM[22m [31m[1m[vite][22m[39m [31mhttp proxy error: /api/v1/teachers?page=0&size=10&sortBy=id&direction=asc[39m
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1142:49)
+    at afterConnectMultiple (node:net:1723:7)
+[2m11:48:26 PM[22m [31m[1m[vite][22m[39m [31mhttp proxy error: /api/v1/departments?page=0&size=100[39m
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1142:49)
+    at afterConnectMultiple (node:net:1723:7)
+[2m11:48:26 PM[22m [31m[1m[vite][22m[39m [31mhttp proxy error: /api/v1/departments?page=0&size=100[39m
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1142:49)
+    at afterConnectMultiple (node:net:1723:7)
+[2m1:47:43 PM[22m [31m[1m[vite][22m[39m [31mhttp proxy error: /api/v1/students?page=0&size=10&sortBy=id&direction=asc[39m
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1142:49)
+    at afterConnectMultiple (node:net:1723:7)
+[2m1:47:43 PM[22m [31m[1m[vite][22m[39m [31mhttp proxy error: /api/v1/departments/page?page=0&size=100&sortBy=id&direction=asc[39m
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1142:49)
+    at afterConnectMultiple (node:net:1723:7)
+[2m1:47:43 PM[22m [31m[1m[vite][22m[39m [31mhttp proxy error: /api/v1/students?page=0&size=10&sortBy=id&direction=asc[39m
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1142:49)
+    at afterConnectMultiple (node:net:1723:7)
+[2m1:47:43 PM[22m [31m[1m[vite][22m[39m [31mhttp proxy error: /api/v1/departments/page?page=0&size=100&sortBy=id&direction=asc[39m
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1142:49)
+    at afterConnectMultiple (node:net:1723:7)
+[2m1:47:43 PM[22m [31m[1m[vite][22m[39m [31mhttp proxy error: /api/v1/departments?page=0&size=100[39m
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1142:49)
+    at afterConnectMultiple (node:net:1723:7)
+[2m1:47:43 PM[22m [31m[1m[vite][22m[39m [31mhttp proxy error: /api/v1/departments?page=0&size=100[39m
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1142:49)
+    at afterConnectMultiple (node:net:1723:7)
+[2m3:18:14 PM[22m [31m[1m[vite][22m[39m [31mInternal server error: D:\JavaScript\indumati\src\components\DataTable.jsx: Unexpected token, expected "," (58:0)
+
+[0m [90m 56 |[31m   )[33m;[31m
+ [90m 57 |[31m }
+[31m[1m>[22m[31m[90m 58 |[31m
+ [90m    |[31m [31m[1m^[22m[31m[0m[39m
+  Plugin: [35mvite:react-babel[39m
+  File: [36mD:/JavaScript/indumati/src/components/DataTable.jsx[39m:58:0
+      at constructor (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:365:19)
+      at JSXParserMixin.raise (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:6616:19)
+      at JSXParserMixin.unexpected (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:6636:16)
+      at JSXParserMixin.expect (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:6916:12)
+      at JSXParserMixin.parseCallExpressionArguments (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:11260:14)
+      at JSXParserMixin.parseCoverCallAndAsyncArrowHead (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:11203:29)
+      at JSXParserMixin.parseSubscript (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:11137:19)
+      at JSXParserMixin.parseSubscripts (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:11111:19)
+      at JSXParserMixin.parseExprSubscripts (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:11102:17)
+      at JSXParserMixin.parseUpdate (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:11083:21)
+      at JSXParserMixin.parseMaybeUnary (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:11063:23)
+      at JSXParserMixin.parseMaybeUnaryOrPrivate (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:10916:61)
+      at JSXParserMixin.parseExprOps (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:10921:23)
+      at JSXParserMixin.parseMaybeConditional (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:10898:23)
+      at JSXParserMixin.parseMaybeAssign (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:10848:21)
+      at D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:10817:39
+      at JSXParserMixin.allowInAnd (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:12438:16)
+      at JSXParserMixin.parseMaybeAssignAllowIn (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:10817:17)
+      at JSXParserMixin.parseVar (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:13401:91)
+      at JSXParserMixin.parseVarStatement (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:13247:10)
+      at JSXParserMixin.parseStatementContent (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:12868:23)
+      at JSXParserMixin.parseStatementLike (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:12784:17)
+      at JSXParserMixin.parseStatementListItem (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:12764:17)
+      at JSXParserMixin.parseExportDeclaration (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:13951:17)
+      at JSXParserMixin.maybeParseExportDeclaration (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:13910:31)
+      at JSXParserMixin.parseExport (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:13829:29)
+      at JSXParserMixin.parseStatementContent (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:12895:27)
+      at JSXParserMixin.parseStatementLike (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:12784:17)
+      at JSXParserMixin.parseModuleItem (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:12761:17)
+      at JSXParserMixin.parseBlockOrModuleBlockBody (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:13333:36)
+      at JSXParserMixin.parseBlockBody (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:13326:10)
+      at JSXParserMixin.parseProgram (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:12639:10)
+      at JSXParserMixin.parseTopLevel (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:12629:25)
+      at JSXParserMixin.parse (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:14505:25)
+      at parse (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:14539:38)
+      at parser (D:\JavaScript\indumati\node_modules\@babel\core\lib\parser\index.js:41:34)
+      at parser.next (<anonymous>)
+      at normalizeFile (D:\JavaScript\indumati\node_modules\@babel\core\lib\transformation\normalize-file.js:64:37)
+      at normalizeFile.next (<anonymous>)
+      at run (D:\JavaScript\indumati\node_modules\@babel\core\lib\transformation\index.js:22:50)
+      at run.next (<anonymous>)
+      at transform (D:\JavaScript\indumati\node_modules\@babel\core\lib\transform.js:22:33)
+      at transform.next (<anonymous>)
+      at step (D:\JavaScript\indumati\node_modules\gensync\index.js:261:32)
+      at D:\JavaScript\indumati\node_modules\gensync\index.js:273:13
+      at async.call.result.err.err (D:\JavaScript\indumati\node_modules\gensync\index.js:223:11)
+      at D:\JavaScript\indumati\node_modules\gensync\index.js:189:28
+      at D:\JavaScript\indumati\node_modules\@babel\core\lib\gensync-utils\async.js:67:7
+      at D:\JavaScript\indumati\node_modules\gensync\index.js:113:33
+      at step (D:\JavaScript\indumati\node_modules\gensync\index.js:287:14)
+[2m3:18:21 PM[22m [31m[1m[vite][22m[39m [31mInternal server error: D:\JavaScript\indumati\src\components\DataTable.jsx: Unexpected token, expected "," (58:0)
+
+[0m [90m 56 |[31m   )[33m;[31m
+ [90m 57 |[31m }
+[31m[1m>[22m[31m[90m 58 |[31m
+ [90m    |[31m [31m[1m^[22m[31m[0m[39m
+  Plugin: [35mvite:react-babel[39m
+  File: [36mD:/JavaScript/indumati/src/components/DataTable.jsx[39m:58:0
+      at constructor (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:365:19)
+      at JSXParserMixin.raise (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:6616:19)
+      at JSXParserMixin.unexpected (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:6636:16)
+      at JSXParserMixin.expect (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:6916:12)
+      at JSXParserMixin.parseCallExpressionArguments (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:11260:14)
+      at JSXParserMixin.parseCoverCallAndAsyncArrowHead (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:11203:29)
+      at JSXParserMixin.parseSubscript (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:11137:19)
+      at JSXParserMixin.parseSubscripts (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:11111:19)
+      at JSXParserMixin.parseExprSubscripts (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:11102:17)
+      at JSXParserMixin.parseUpdate (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:11083:21)
+      at JSXParserMixin.parseMaybeUnary (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:11063:23)
+      at JSXParserMixin.parseMaybeUnaryOrPrivate (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:10916:61)
+      at JSXParserMixin.parseExprOps (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:10921:23)
+      at JSXParserMixin.parseMaybeConditional (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:10898:23)
+      at JSXParserMixin.parseMaybeAssign (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:10848:21)
+      at D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:10817:39
+      at JSXParserMixin.allowInAnd (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:12438:16)
+      at JSXParserMixin.parseMaybeAssignAllowIn (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:10817:17)
+      at JSXParserMixin.parseVar (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:13401:91)
+      at JSXParserMixin.parseVarStatement (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:13247:10)
+      at JSXParserMixin.parseStatementContent (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:12868:23)
+      at JSXParserMixin.parseStatementLike (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:12784:17)
+      at JSXParserMixin.parseStatementListItem (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:12764:17)
+      at JSXParserMixin.parseExportDeclaration (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:13951:17)
+      at JSXParserMixin.maybeParseExportDeclaration (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:13910:31)
+      at JSXParserMixin.parseExport (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:13829:29)
+      at JSXParserMixin.parseStatementContent (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:12895:27)
+      at JSXParserMixin.parseStatementLike (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:12784:17)
+      at JSXParserMixin.parseModuleItem (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:12761:17)
+      at JSXParserMixin.parseBlockOrModuleBlockBody (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:13333:36)
+      at JSXParserMixin.parseBlockBody (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:13326:10)
+      at JSXParserMixin.parseProgram (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:12639:10)
+      at JSXParserMixin.parseTopLevel (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:12629:25)
+      at JSXParserMixin.parse (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:14505:25)
+      at parse (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:14539:38)
+      at parser (D:\JavaScript\indumati\node_modules\@babel\core\lib\parser\index.js:41:34)
+      at parser.next (<anonymous>)
+      at normalizeFile (D:\JavaScript\indumati\node_modules\@babel\core\lib\transformation\normalize-file.js:64:37)
+      at normalizeFile.next (<anonymous>)
+      at run (D:\JavaScript\indumati\node_modules\@babel\core\lib\transformation\index.js:22:50)
+      at run.next (<anonymous>)
+      at transform (D:\JavaScript\indumati\node_modules\@babel\core\lib\transform.js:22:33)
+      at transform.next (<anonymous>)
+      at step (D:\JavaScript\indumati\node_modules\gensync\index.js:261:32)
+      at D:\JavaScript\indumati\node_modules\gensync\index.js:273:13
+      at async.call.result.err.err (D:\JavaScript\indumati\node_modules\gensync\index.js:223:11)
+      at D:\JavaScript\indumati\node_modules\gensync\index.js:189:28
+      at D:\JavaScript\indumati\node_modules\@babel\core\lib\gensync-utils\async.js:67:7
+      at D:\JavaScript\indumati\node_modules\gensync\index.js:113:33
+      at step (D:\JavaScript\indumati\node_modules\gensync\index.js:287:14)
+[2m3:18:22 PM[22m [31m[1m[vite][22m[39m Pre-transform error: D:\JavaScript\indumati\src\components\DataTable.jsx: Unexpected token, expected "," (58:0)
+
+[0m [90m 56 |[39m   )[33m;[39m
+ [90m 57 |[39m }
+[31m[1m>[22m[39m[90m 58 |[39m
+ [90m    |[39m [31m[1m^[22m[39m[0m
+[2m3:18:48 PM[22m [31m[1m[vite][22m[39m Pre-transform error: D:\JavaScript\indumati\src\components\DataTable.jsx: Unexpected token, expected "," (58:0)
+
+[0m [90m 56 |[39m   )[33m;[39m
+ [90m 57 |[39m }
+[31m[1m>[22m[39m[90m 58 |[39m
+ [90m    |[39m [31m[1m^[22m[39m[0m
+[2m3:18:59 PM[22m [31m[1m[vite][22m[39m Pre-transform error: D:\JavaScript\indumati\src\components\DataTable.jsx: Unexpected token, expected "," (58:0)
+
+[0m [90m 56 |[39m   )[33m;[39m
+ [90m 57 |[39m }
+[31m[1m>[22m[39m[90m 58 |[39m
+ [90m    |[39m [31m[1m^[22m[39m[0m
+[2m3:18:59 PM[22m [31m[1m[vite][22m[39m [31mInternal server error: D:\JavaScript\indumati\src\components\DataTable.jsx: Unexpected token, expected "," (58:0)
+
+[0m [90m 56 |[31m   )[33m;[31m
+ [90m 57 |[31m }
+[31m[1m>[22m[31m[90m 58 |[31m
+ [90m    |[31m [31m[1m^[22m[31m[0m[39m
+  Plugin: [35mvite:react-babel[39m
+  File: [36mD:/JavaScript/indumati/src/components/DataTable.jsx[39m:58:0
+      at constructor (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:365:19)
+      at JSXParserMixin.raise (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:6616:19)
+      at JSXParserMixin.unexpected (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:6636:16)
+      at JSXParserMixin.expect (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:6916:12)
+      at JSXParserMixin.parseCallExpressionArguments (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:11260:14)
+      at JSXParserMixin.parseCoverCallAndAsyncArrowHead (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:11203:29)
+      at JSXParserMixin.parseSubscript (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:11137:19)
+      at JSXParserMixin.parseSubscripts (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:11111:19)
+      at JSXParserMixin.parseExprSubscripts (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:11102:17)
+      at JSXParserMixin.parseUpdate (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:11083:21)
+      at JSXParserMixin.parseMaybeUnary (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:11063:23)
+      at JSXParserMixin.parseMaybeUnaryOrPrivate (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:10916:61)
+      at JSXParserMixin.parseExprOps (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:10921:23)
+      at JSXParserMixin.parseMaybeConditional (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:10898:23)
+      at JSXParserMixin.parseMaybeAssign (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:10848:21)
+      at D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:10817:39
+      at JSXParserMixin.allowInAnd (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:12438:16)
+      at JSXParserMixin.parseMaybeAssignAllowIn (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:10817:17)
+      at JSXParserMixin.parseVar (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:13401:91)
+      at JSXParserMixin.parseVarStatement (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:13247:10)
+      at JSXParserMixin.parseStatementContent (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:12868:23)
+      at JSXParserMixin.parseStatementLike (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:12784:17)
+      at JSXParserMixin.parseStatementListItem (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:12764:17)
+      at JSXParserMixin.parseExportDeclaration (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:13951:17)
+      at JSXParserMixin.maybeParseExportDeclaration (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:13910:31)
+      at JSXParserMixin.parseExport (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:13829:29)
+      at JSXParserMixin.parseStatementContent (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:12895:27)
+      at JSXParserMixin.parseStatementLike (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:12784:17)
+      at JSXParserMixin.parseModuleItem (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:12761:17)
+      at JSXParserMixin.parseBlockOrModuleBlockBody (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:13333:36)
+      at JSXParserMixin.parseBlockBody (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:13326:10)
+      at JSXParserMixin.parseProgram (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:12639:10)
+      at JSXParserMixin.parseTopLevel (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:12629:25)
+      at JSXParserMixin.parse (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:14505:25)
+      at parse (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:14539:38)
+      at parser (D:\JavaScript\indumati\node_modules\@babel\core\lib\parser\index.js:41:34)
+      at parser.next (<anonymous>)
+      at normalizeFile (D:\JavaScript\indumati\node_modules\@babel\core\lib\transformation\normalize-file.js:64:37)
+      at normalizeFile.next (<anonymous>)
+      at run (D:\JavaScript\indumati\node_modules\@babel\core\lib\transformation\index.js:22:50)
+      at run.next (<anonymous>)
+      at transform (D:\JavaScript\indumati\node_modules\@babel\core\lib\transform.js:22:33)
+      at transform.next (<anonymous>)
+      at step (D:\JavaScript\indumati\node_modules\gensync\index.js:261:32)
+      at D:\JavaScript\indumati\node_modules\gensync\index.js:273:13
+      at async.call.result.err.err (D:\JavaScript\indumati\node_modules\gensync\index.js:223:11)
+      at D:\JavaScript\indumati\node_modules\gensync\index.js:189:28
+      at D:\JavaScript\indumati\node_modules\@babel\core\lib\gensync-utils\async.js:67:7
+      at D:\JavaScript\indumati\node_modules\gensync\index.js:113:33
+      at step (D:\JavaScript\indumati\node_modules\gensync\index.js:287:14)
+[2m9:36:13 PM[22m [31m[1m[vite][22m[39m [31mInternal server error: D:\JavaScript\indumati\src\pages\Attendance.jsx: Missing catch or finally clause. (84:6)
+
+[0m [90m 82 |[31m     [36masync[31m [36mfunction[31m loadStudentAttendance() {
+ [90m 83 |[31m       setLoading([36mtrue[31m)[33m;[31m
+[31m[1m>[22m[31m[90m 84 |[31m       [36mtry[31m {
+ [90m    |[31m       [31m[1m^[22m[31m
+ [90m 85 |[31m           [36mconst[31m response [33m=[31m [36mawait[31m api[33m.[31m[36mget[31m([32m`/v1/attendance/student/${user?.id}?page=0&size=50`[31m)[33m;[31m
+ [90m 86 |[31m           setStudentAttendance(response[33m.[31mdata[33m.[31mcontent [33m||[31m response[33m.[31mdata [33m||[31m [])[33m;[31m
+ [90m 87 |[31m         setLoading([36mfalse[31m)[33m;[31m[0m[39m
+  Plugin: [35mvite:react-babel[39m
+  File: [36mD:/JavaScript/indumati/src/pages/Attendance.jsx[39m:84:6
+[33m  83 |        setLoading(true);
+  84 |        try {
+  85 |            const response = await api.get(`/v1/attendance/student/${user?.id}?page=0&size=50`);
+     |                                                                               ^
+  86 |            setStudentAttendance(response.data.content || response.data || []);
+  87 |          setLoading(false);[39m
+      at constructor (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:365:19)
+      at JSXParserMixin.raise (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:6616:19)
+      at JSXParserMixin.parseTryStatement (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:13241:12)
+      at JSXParserMixin.parseStatementContent (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:12821:21)
+      at JSXParserMixin.parseStatementLike (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:12784:17)
+      at JSXParserMixin.parseStatementListItem (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:12764:17)
+      at JSXParserMixin.parseBlockOrModuleBlockBody (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:13333:61)
+      at JSXParserMixin.parseBlockBody (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:13326:10)
+      at JSXParserMixin.parseBlock (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:13314:10)
+      at JSXParserMixin.parseFunctionBody (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:12117:24)
+      at JSXParserMixin.parseFunctionBodyAndFinish (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:12103:10)
+      at D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:13462:12
+      at JSXParserMixin.withSmartMixTopicForbiddingContext (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:12420:14)
+      at JSXParserMixin.parseFunction (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:13461:10)
+      at JSXParserMixin.parseFunctionStatement (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:13142:17)
+      at JSXParserMixin.parseStatementContent (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:12907:25)
+      at JSXParserMixin.parseStatementLike (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:12784:17)
+      at JSXParserMixin.parseStatementListItem (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:12764:17)
+      at JSXParserMixin.parseBlockOrModuleBlockBody (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:13333:61)
+      at JSXParserMixin.parseBlockBody (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:13326:10)
+      at JSXParserMixin.parseBlock (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:13314:10)
+      at JSXParserMixin.parseFunctionBody (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:12117:24)
+      at JSXParserMixin.parseArrowExpression (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:12092:10)
+      at JSXParserMixin.parseParenAndDistinguishExpression (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:11704:12)
+      at JSXParserMixin.parseExprAtom (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:11348:23)
+      at JSXParserMixin.parseExprAtom (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:4776:20)
+      at JSXParserMixin.parseExprSubscripts (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:11098:23)
+      at JSXParserMixin.parseUpdate (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:11083:21)
+      at JSXParserMixin.parseMaybeUnary (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:11063:23)
+      at JSXParserMixin.parseMaybeUnaryOrPrivate (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:10916:61)
+      at JSXParserMixin.parseExprOps (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:10921:23)
+      at JSXParserMixin.parseMaybeConditional (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:10898:23)
+      at JSXParserMixin.parseMaybeAssign (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:10848:21)
+      at D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:10817:39
+      at JSXParserMixin.allowInAnd (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:12443:12)
+      at JSXParserMixin.parseMaybeAssignAllowIn (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:10817:17)
+      at JSXParserMixin.parseMaybeAssignAllowInOrVoidPattern (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:12510:17)
+      at JSXParserMixin.parseExprListItem (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:12192:18)
+      at JSXParserMixin.parseCallExpressionArguments (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:11269:22)
+      at JSXParserMixin.parseCoverCallAndAsyncArrowHead (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:11203:29)
+      at JSXParserMixin.parseSubscript (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:11137:19)
+      at JSXParserMixin.parseSubscripts (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:11111:19)
+      at JSXParserMixin.parseExprSubscripts (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:11102:17)
+      at JSXParserMixin.parseUpdate (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:11083:21)
+      at JSXParserMixin.parseMaybeUnary (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:11063:23)
+      at JSXParserMixin.parseMaybeUnaryOrPrivate (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:10916:61)
+      at JSXParserMixin.parseExprOps (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:10921:23)
+      at JSXParserMixin.parseMaybeConditional (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:10898:23)
+      at JSXParserMixin.parseMaybeAssign (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:10848:21)
+      at JSXParserMixin.parseExpressionBase (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:10801:23)
+[2m9:36:29 PM[22m [31m[1m[vite][22m[39m [31mInternal server error: D:\JavaScript\indumati\src\pages\Attendance.jsx: Missing catch or finally clause. (84:6)
+
+[0m [90m 82 |[31m     [36masync[31m [36mfunction[31m loadStudentAttendance() {
+ [90m 83 |[31m       setLoading([36mtrue[31m)[33m;[31m
+[31m[1m>[22m[31m[90m 84 |[31m       [36mtry[31m {
+ [90m    |[31m       [31m[1m^[22m[31m
+ [90m 85 |[31m           [36mconst[31m response [33m=[31m [36mawait[31m api[33m.[31m[36mget[31m([32m`/v1/attendance/student/${user?.id}?page=0&size=50`[31m)[33m;[31m
+ [90m 86 |[31m           setStudentAttendance(response[33m.[31mdata[33m.[31mcontent [33m||[31m response[33m.[31mdata [33m||[31m [])[33m;[31m
+ [90m 87 |[31m         setLoading([36mfalse[31m)[33m;[31m[0m[39m
+  Plugin: [35mvite:react-babel[39m
+  File: [36mD:/JavaScript/indumati/src/pages/Attendance.jsx[39m:84:6
+[33m  83 |        setLoading(true);
+  84 |        try {
+  85 |            const response = await api.get(`/v1/attendance/student/${user?.id}?page=0&size=50`);
+     |                                                                               ^
+  86 |            setStudentAttendance(response.data.content || response.data || []);
+  87 |          setLoading(false);[39m
+      at constructor (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:365:19)
+      at JSXParserMixin.raise (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:6616:19)
+      at JSXParserMixin.parseTryStatement (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:13241:12)
+      at JSXParserMixin.parseStatementContent (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:12821:21)
+      at JSXParserMixin.parseStatementLike (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:12784:17)
+      at JSXParserMixin.parseStatementListItem (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:12764:17)
+      at JSXParserMixin.parseBlockOrModuleBlockBody (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:13333:61)
+      at JSXParserMixin.parseBlockBody (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:13326:10)
+      at JSXParserMixin.parseBlock (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:13314:10)
+      at JSXParserMixin.parseFunctionBody (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:12117:24)
+      at JSXParserMixin.parseFunctionBodyAndFinish (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:12103:10)
+      at D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:13462:12
+      at JSXParserMixin.withSmartMixTopicForbiddingContext (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:12420:14)
+      at JSXParserMixin.parseFunction (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:13461:10)
+      at JSXParserMixin.parseFunctionStatement (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:13142:17)
+      at JSXParserMixin.parseStatementContent (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:12907:25)
+      at JSXParserMixin.parseStatementLike (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:12784:17)
+      at JSXParserMixin.parseStatementListItem (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:12764:17)
+      at JSXParserMixin.parseBlockOrModuleBlockBody (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:13333:61)
+      at JSXParserMixin.parseBlockBody (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:13326:10)
+      at JSXParserMixin.parseBlock (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:13314:10)
+      at JSXParserMixin.parseFunctionBody (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:12117:24)
+      at JSXParserMixin.parseArrowExpression (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:12092:10)
+      at JSXParserMixin.parseParenAndDistinguishExpression (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:11704:12)
+      at JSXParserMixin.parseExprAtom (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:11348:23)
+      at JSXParserMixin.parseExprAtom (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:4776:20)
+      at JSXParserMixin.parseExprSubscripts (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:11098:23)
+      at JSXParserMixin.parseUpdate (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:11083:21)
+      at JSXParserMixin.parseMaybeUnary (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:11063:23)
+      at JSXParserMixin.parseMaybeUnaryOrPrivate (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:10916:61)
+      at JSXParserMixin.parseExprOps (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:10921:23)
+      at JSXParserMixin.parseMaybeConditional (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:10898:23)
+      at JSXParserMixin.parseMaybeAssign (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:10848:21)
+      at D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:10817:39
+      at JSXParserMixin.allowInAnd (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:12443:12)
+      at JSXParserMixin.parseMaybeAssignAllowIn (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:10817:17)
+      at JSXParserMixin.parseMaybeAssignAllowInOrVoidPattern (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:12510:17)
+      at JSXParserMixin.parseExprListItem (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:12192:18)
+      at JSXParserMixin.parseCallExpressionArguments (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:11269:22)
+      at JSXParserMixin.parseCoverCallAndAsyncArrowHead (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:11203:29)
+      at JSXParserMixin.parseSubscript (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:11137:19)
+      at JSXParserMixin.parseSubscripts (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:11111:19)
+      at JSXParserMixin.parseExprSubscripts (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:11102:17)
+      at JSXParserMixin.parseUpdate (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:11083:21)
+      at JSXParserMixin.parseMaybeUnary (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:11063:23)
+      at JSXParserMixin.parseMaybeUnaryOrPrivate (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:10916:61)
+      at JSXParserMixin.parseExprOps (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:10921:23)
+      at JSXParserMixin.parseMaybeConditional (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:10898:23)
+      at JSXParserMixin.parseMaybeAssign (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:10848:21)
+      at JSXParserMixin.parseExpressionBase (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:10801:23)
+[2m9:37:44 PM[22m [31m[1m[vite][22m[39m [31mInternal server error: D:\JavaScript\indumati\src\pages\Attendance.jsx: Missing catch or finally clause. (84:6)
+
+[0m [90m 82 |[31m     [36masync[31m [36mfunction[31m loadStudentAttendance() {
+ [90m 83 |[31m       setLoading([36mtrue[31m)[33m;[31m
+[31m[1m>[22m[31m[90m 84 |[31m       [36mtry[31m {
+ [90m    |[31m       [31m[1m^[22m[31m
+ [90m 85 |[31m           [36mconst[31m response [33m=[31m [36mawait[31m api[33m.[31m[36mget[31m([32m`/v1/attendance/student/${user?.id}?page=0&size=50`[31m)[33m;[31m
+ [90m 86 |[31m           setStudentAttendance(response[33m.[31mdata[33m.[31mcontent [33m||[31m response[33m.[31mdata [33m||[31m [])[33m;[31m
+ [90m 87 |[31m         setLoading([36mfalse[31m)[33m;[31m[0m[39m
+  Plugin: [35mvite:react-babel[39m
+  File: [36mD:/JavaScript/indumati/src/pages/Attendance.jsx[39m:84:6
+[33m  83 |        setLoading(true);
+  84 |        try {
+  85 |            const response = await api.get(`/v1/attendance/student/${user?.id}?page=0&size=50`);
+     |                                                                               ^
+  86 |            setStudentAttendance(response.data.content || response.data || []);
+  87 |          setLoading(false);[39m
+      at constructor (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:365:19)
+      at JSXParserMixin.raise (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:6616:19)
+      at JSXParserMixin.parseTryStatement (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:13241:12)
+      at JSXParserMixin.parseStatementContent (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:12821:21)
+      at JSXParserMixin.parseStatementLike (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:12784:17)
+      at JSXParserMixin.parseStatementListItem (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:12764:17)
+      at JSXParserMixin.parseBlockOrModuleBlockBody (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:13333:61)
+      at JSXParserMixin.parseBlockBody (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:13326:10)
+      at JSXParserMixin.parseBlock (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:13314:10)
+      at JSXParserMixin.parseFunctionBody (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:12117:24)
+      at JSXParserMixin.parseFunctionBodyAndFinish (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:12103:10)
+      at D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:13462:12
+      at JSXParserMixin.withSmartMixTopicForbiddingContext (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:12420:14)
+      at JSXParserMixin.parseFunction (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:13461:10)
+      at JSXParserMixin.parseFunctionStatement (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:13142:17)
+      at JSXParserMixin.parseStatementContent (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:12907:25)
+      at JSXParserMixin.parseStatementLike (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:12784:17)
+      at JSXParserMixin.parseStatementListItem (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:12764:17)
+      at JSXParserMixin.parseBlockOrModuleBlockBody (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:13333:61)
+      at JSXParserMixin.parseBlockBody (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:13326:10)
+      at JSXParserMixin.parseBlock (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:13314:10)
+      at JSXParserMixin.parseFunctionBody (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:12117:24)
+      at JSXParserMixin.parseArrowExpression (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:12092:10)
+      at JSXParserMixin.parseParenAndDistinguishExpression (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:11704:12)
+      at JSXParserMixin.parseExprAtom (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:11348:23)
+      at JSXParserMixin.parseExprAtom (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:4776:20)
+      at JSXParserMixin.parseExprSubscripts (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:11098:23)
+      at JSXParserMixin.parseUpdate (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:11083:21)
+      at JSXParserMixin.parseMaybeUnary (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:11063:23)
+      at JSXParserMixin.parseMaybeUnaryOrPrivate (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:10916:61)
+      at JSXParserMixin.parseExprOps (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:10921:23)
+      at JSXParserMixin.parseMaybeConditional (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:10898:23)
+      at JSXParserMixin.parseMaybeAssign (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:10848:21)
+      at D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:10817:39
+      at JSXParserMixin.allowInAnd (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:12443:12)
+      at JSXParserMixin.parseMaybeAssignAllowIn (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:10817:17)
+      at JSXParserMixin.parseMaybeAssignAllowInOrVoidPattern (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:12510:17)
+      at JSXParserMixin.parseExprListItem (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:12192:18)
+      at JSXParserMixin.parseCallExpressionArguments (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:11269:22)
+      at JSXParserMixin.parseCoverCallAndAsyncArrowHead (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:11203:29)
+      at JSXParserMixin.parseSubscript (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:11137:19)
+      at JSXParserMixin.parseSubscripts (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:11111:19)
+      at JSXParserMixin.parseExprSubscripts (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:11102:17)
+      at JSXParserMixin.parseUpdate (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:11083:21)
+      at JSXParserMixin.parseMaybeUnary (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:11063:23)
+      at JSXParserMixin.parseMaybeUnaryOrPrivate (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:10916:61)
+      at JSXParserMixin.parseExprOps (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:10921:23)
+      at JSXParserMixin.parseMaybeConditional (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:10898:23)
+      at JSXParserMixin.parseMaybeAssign (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:10848:21)
+      at JSXParserMixin.parseExpressionBase (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:10801:23)
+[2m9:37:44 PM[22m [31m[1m[vite][22m[39m [31mInternal server error: D:\JavaScript\indumati\src\pages\Attendance.jsx: Missing catch or finally clause. (84:6)
+
+[0m [90m 82 |[31m     [36masync[31m [36mfunction[31m loadStudentAttendance() {
+ [90m 83 |[31m       setLoading([36mtrue[31m)[33m;[31m
+[31m[1m>[22m[31m[90m 84 |[31m       [36mtry[31m {
+ [90m    |[31m       [31m[1m^[22m[31m
+ [90m 85 |[31m           [36mconst[31m response [33m=[31m [36mawait[31m api[33m.[31m[36mget[31m([32m`/v1/attendance/student/${user?.id}?page=0&size=50`[31m)[33m;[31m
+ [90m 86 |[31m           setStudentAttendance(response[33m.[31mdata[33m.[31mcontent [33m||[31m response[33m.[31mdata [33m||[31m [])[33m;[31m
+ [90m 87 |[31m         setLoading([36mfalse[31m)[33m;[31m[0m[39m
+  Plugin: [35mvite:react-babel[39m
+  File: [36mD:/JavaScript/indumati/src/pages/Attendance.jsx[39m:84:6
+[33m  83 |        setLoading(true);
+  84 |        try {
+  85 |            const response = await api.get(`/v1/attendance/student/${user?.id}?page=0&size=50`);
+     |                                                                               ^
+  86 |            setStudentAttendance(response.data.content || response.data || []);
+  87 |          setLoading(false);[39m
+      at constructor (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:365:19)
+      at JSXParserMixin.raise (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:6616:19)
+      at JSXParserMixin.parseTryStatement (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:13241:12)
+      at JSXParserMixin.parseStatementContent (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:12821:21)
+      at JSXParserMixin.parseStatementLike (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:12784:17)
+      at JSXParserMixin.parseStatementListItem (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:12764:17)
+      at JSXParserMixin.parseBlockOrModuleBlockBody (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:13333:61)
+      at JSXParserMixin.parseBlockBody (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:13326:10)
+      at JSXParserMixin.parseBlock (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:13314:10)
+      at JSXParserMixin.parseFunctionBody (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:12117:24)
+      at JSXParserMixin.parseFunctionBodyAndFinish (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:12103:10)
+      at D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:13462:12
+      at JSXParserMixin.withSmartMixTopicForbiddingContext (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:12420:14)
+      at JSXParserMixin.parseFunction (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:13461:10)
+      at JSXParserMixin.parseFunctionStatement (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:13142:17)
+      at JSXParserMixin.parseStatementContent (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:12907:25)
+      at JSXParserMixin.parseStatementLike (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:12784:17)
+      at JSXParserMixin.parseStatementListItem (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:12764:17)
+      at JSXParserMixin.parseBlockOrModuleBlockBody (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:13333:61)
+      at JSXParserMixin.parseBlockBody (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:13326:10)
+      at JSXParserMixin.parseBlock (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:13314:10)
+      at JSXParserMixin.parseFunctionBody (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:12117:24)
+      at JSXParserMixin.parseArrowExpression (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:12092:10)
+      at JSXParserMixin.parseParenAndDistinguishExpression (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:11704:12)
+      at JSXParserMixin.parseExprAtom (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:11348:23)
+      at JSXParserMixin.parseExprAtom (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:4776:20)
+      at JSXParserMixin.parseExprSubscripts (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:11098:23)
+      at JSXParserMixin.parseUpdate (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:11083:21)
+      at JSXParserMixin.parseMaybeUnary (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:11063:23)
+      at JSXParserMixin.parseMaybeUnaryOrPrivate (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:10916:61)
+      at JSXParserMixin.parseExprOps (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:10921:23)
+      at JSXParserMixin.parseMaybeConditional (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:10898:23)
+      at JSXParserMixin.parseMaybeAssign (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:10848:21)
+      at D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:10817:39
+      at JSXParserMixin.allowInAnd (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:12443:12)
+      at JSXParserMixin.parseMaybeAssignAllowIn (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:10817:17)
+      at JSXParserMixin.parseMaybeAssignAllowInOrVoidPattern (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:12510:17)
+      at JSXParserMixin.parseExprListItem (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:12192:18)
+      at JSXParserMixin.parseCallExpressionArguments (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:11269:22)
+      at JSXParserMixin.parseCoverCallAndAsyncArrowHead (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:11203:29)
+      at JSXParserMixin.parseSubscript (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:11137:19)
+      at JSXParserMixin.parseSubscripts (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:11111:19)
+      at JSXParserMixin.parseExprSubscripts (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:11102:17)
+      at JSXParserMixin.parseUpdate (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:11083:21)
+      at JSXParserMixin.parseMaybeUnary (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:11063:23)
+      at JSXParserMixin.parseMaybeUnaryOrPrivate (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:10916:61)
+      at JSXParserMixin.parseExprOps (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:10921:23)
+      at JSXParserMixin.parseMaybeConditional (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:10898:23)
+      at JSXParserMixin.parseMaybeAssign (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:10848:21)
+      at JSXParserMixin.parseExpressionBase (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:10801:23)
+[2m9:37:58 PM[22m [31m[1m[vite][22m[39m [31mInternal server error: D:\JavaScript\indumati\src\pages\Attendance.jsx: Missing catch or finally clause. (84:6)
+
+[0m [90m 82 |[31m     [36masync[31m [36mfunction[31m loadStudentAttendance() {
+ [90m 83 |[31m       setLoading([36mtrue[31m)[33m;[31m
+[31m[1m>[22m[31m[90m 84 |[31m       [36mtry[31m {
+ [90m    |[31m       [31m[1m^[22m[31m
+ [90m 85 |[31m           [36mconst[31m response [33m=[31m [36mawait[31m api[33m.[31m[36mget[31m([32m`/v1/attendance/student/${user?.id}?page=0&size=50`[31m)[33m;[31m
+ [90m 86 |[31m           setStudentAttendance(response[33m.[31mdata[33m.[31mcontent [33m||[31m response[33m.[31mdata [33m||[31m [])[33m;[31m
+ [90m 87 |[31m         setLoading([36mfalse[31m)[33m;[31m[0m[39m
+  Plugin: [35mvite:react-babel[39m
+  File: [36mD:/JavaScript/indumati/src/pages/Attendance.jsx[39m:84:6
+[33m  83 |        setLoading(true);
+  84 |        try {
+  85 |            const response = await api.get(`/v1/attendance/student/${user?.id}?page=0&size=50`);
+     |                                                                               ^
+  86 |            setStudentAttendance(response.data.content || response.data || []);
+  87 |          setLoading(false);[39m
+      at constructor (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:365:19)
+      at JSXParserMixin.raise (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:6616:19)
+      at JSXParserMixin.parseTryStatement (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:13241:12)
+      at JSXParserMixin.parseStatementContent (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:12821:21)
+      at JSXParserMixin.parseStatementLike (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:12784:17)
+      at JSXParserMixin.parseStatementListItem (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:12764:17)
+      at JSXParserMixin.parseBlockOrModuleBlockBody (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:13333:61)
+      at JSXParserMixin.parseBlockBody (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:13326:10)
+      at JSXParserMixin.parseBlock (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:13314:10)
+      at JSXParserMixin.parseFunctionBody (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:12117:24)
+      at JSXParserMixin.parseFunctionBodyAndFinish (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:12103:10)
+      at D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:13462:12
+      at JSXParserMixin.withSmartMixTopicForbiddingContext (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:12420:14)
+      at JSXParserMixin.parseFunction (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:13461:10)
+      at JSXParserMixin.parseFunctionStatement (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:13142:17)
+      at JSXParserMixin.parseStatementContent (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:12907:25)
+      at JSXParserMixin.parseStatementLike (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:12784:17)
+      at JSXParserMixin.parseStatementListItem (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:12764:17)
+      at JSXParserMixin.parseBlockOrModuleBlockBody (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:13333:61)
+      at JSXParserMixin.parseBlockBody (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:13326:10)
+      at JSXParserMixin.parseBlock (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:13314:10)
+      at JSXParserMixin.parseFunctionBody (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:12117:24)
+      at JSXParserMixin.parseArrowExpression (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:12092:10)
+      at JSXParserMixin.parseParenAndDistinguishExpression (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:11704:12)
+      at JSXParserMixin.parseExprAtom (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:11348:23)
+      at JSXParserMixin.parseExprAtom (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:4776:20)
+      at JSXParserMixin.parseExprSubscripts (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:11098:23)
+      at JSXParserMixin.parseUpdate (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:11083:21)
+      at JSXParserMixin.parseMaybeUnary (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:11063:23)
+      at JSXParserMixin.parseMaybeUnaryOrPrivate (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:10916:61)
+      at JSXParserMixin.parseExprOps (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:10921:23)
+      at JSXParserMixin.parseMaybeConditional (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:10898:23)
+      at JSXParserMixin.parseMaybeAssign (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:10848:21)
+      at D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:10817:39
+      at JSXParserMixin.allowInAnd (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:12443:12)
+      at JSXParserMixin.parseMaybeAssignAllowIn (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:10817:17)
+      at JSXParserMixin.parseMaybeAssignAllowInOrVoidPattern (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:12510:17)
+      at JSXParserMixin.parseExprListItem (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:12192:18)
+      at JSXParserMixin.parseCallExpressionArguments (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:11269:22)
+      at JSXParserMixin.parseCoverCallAndAsyncArrowHead (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:11203:29)
+      at JSXParserMixin.parseSubscript (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:11137:19)
+      at JSXParserMixin.parseSubscripts (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:11111:19)
+      at JSXParserMixin.parseExprSubscripts (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:11102:17)
+      at JSXParserMixin.parseUpdate (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:11083:21)
+      at JSXParserMixin.parseMaybeUnary (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:11063:23)
+      at JSXParserMixin.parseMaybeUnaryOrPrivate (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:10916:61)
+      at JSXParserMixin.parseExprOps (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:10921:23)
+      at JSXParserMixin.parseMaybeConditional (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:10898:23)
+      at JSXParserMixin.parseMaybeAssign (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:10848:21)
+      at JSXParserMixin.parseExpressionBase (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:10801:23)
+[2m10:06:26 PM[22m [31m[1m[vite][22m[39m [31mInternal server error: D:\JavaScript\indumati\src\pages\Attendance.jsx: Missing catch or finally clause. (84:6)
+
+[0m [90m 82 |[31m     [36masync[31m [36mfunction[31m loadStudentAttendance() {
+ [90m 83 |[31m       setLoading([36mtrue[31m)[33m;[31m
+[31m[1m>[22m[31m[90m 84 |[31m       [36mtry[31m {
+ [90m    |[31m       [31m[1m^[22m[31m
+ [90m 85 |[31m           [36mconst[31m response [33m=[31m [36mawait[31m api[33m.[31m[36mget[31m([32m`/v1/attendance/student/${user?.id}?page=0&size=50`[31m)[33m;[31m
+ [90m 86 |[31m           setStudentAttendance(response[33m.[31mdata[33m.[31mcontent [33m||[31m response[33m.[31mdata [33m||[31m [])[33m;[31m
+ [90m 87 |[31m         setLoading([36mfalse[31m)[33m;[31m[0m[39m
+  Plugin: [35mvite:react-babel[39m
+  File: [36mD:/JavaScript/indumati/src/pages/Attendance.jsx[39m:84:6
+[33m  83 |        setLoading(true);
+  84 |        try {
+  85 |            const response = await api.get(`/v1/attendance/student/${user?.id}?page=0&size=50`);
+     |                                                                               ^
+  86 |            setStudentAttendance(response.data.content || response.data || []);
+  87 |          setLoading(false);[39m
+      at constructor (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:365:19)
+      at JSXParserMixin.raise (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:6616:19)
+      at JSXParserMixin.parseTryStatement (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:13241:12)
+      at JSXParserMixin.parseStatementContent (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:12821:21)
+      at JSXParserMixin.parseStatementLike (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:12784:17)
+      at JSXParserMixin.parseStatementListItem (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:12764:17)
+      at JSXParserMixin.parseBlockOrModuleBlockBody (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:13333:61)
+      at JSXParserMixin.parseBlockBody (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:13326:10)
+      at JSXParserMixin.parseBlock (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:13314:10)
+      at JSXParserMixin.parseFunctionBody (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:12117:24)
+      at JSXParserMixin.parseFunctionBodyAndFinish (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:12103:10)
+      at D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:13462:12
+      at JSXParserMixin.withSmartMixTopicForbiddingContext (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:12420:14)
+      at JSXParserMixin.parseFunction (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:13461:10)
+      at JSXParserMixin.parseFunctionStatement (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:13142:17)
+      at JSXParserMixin.parseStatementContent (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:12907:25)
+      at JSXParserMixin.parseStatementLike (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:12784:17)
+      at JSXParserMixin.parseStatementListItem (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:12764:17)
+      at JSXParserMixin.parseBlockOrModuleBlockBody (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:13333:61)
+      at JSXParserMixin.parseBlockBody (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:13326:10)
+      at JSXParserMixin.parseBlock (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:13314:10)
+      at JSXParserMixin.parseFunctionBody (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:12117:24)
+      at JSXParserMixin.parseArrowExpression (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:12092:10)
+      at JSXParserMixin.parseParenAndDistinguishExpression (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:11704:12)
+      at JSXParserMixin.parseExprAtom (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:11348:23)
+      at JSXParserMixin.parseExprAtom (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:4776:20)
+      at JSXParserMixin.parseExprSubscripts (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:11098:23)
+      at JSXParserMixin.parseUpdate (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:11083:21)
+      at JSXParserMixin.parseMaybeUnary (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:11063:23)
+      at JSXParserMixin.parseMaybeUnaryOrPrivate (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:10916:61)
+      at JSXParserMixin.parseExprOps (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:10921:23)
+      at JSXParserMixin.parseMaybeConditional (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:10898:23)
+      at JSXParserMixin.parseMaybeAssign (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:10848:21)
+      at D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:10817:39
+      at JSXParserMixin.allowInAnd (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:12443:12)
+      at JSXParserMixin.parseMaybeAssignAllowIn (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:10817:17)
+      at JSXParserMixin.parseMaybeAssignAllowInOrVoidPattern (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:12510:17)
+      at JSXParserMixin.parseExprListItem (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:12192:18)
+      at JSXParserMixin.parseCallExpressionArguments (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:11269:22)
+      at JSXParserMixin.parseCoverCallAndAsyncArrowHead (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:11203:29)
+      at JSXParserMixin.parseSubscript (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:11137:19)
+      at JSXParserMixin.parseSubscripts (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:11111:19)
+      at JSXParserMixin.parseExprSubscripts (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:11102:17)
+      at JSXParserMixin.parseUpdate (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:11083:21)
+      at JSXParserMixin.parseMaybeUnary (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:11063:23)
+      at JSXParserMixin.parseMaybeUnaryOrPrivate (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:10916:61)
+      at JSXParserMixin.parseExprOps (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:10921:23)
+      at JSXParserMixin.parseMaybeConditional (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:10898:23)
+      at JSXParserMixin.parseMaybeAssign (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:10848:21)
+      at JSXParserMixin.parseExpressionBase (D:\JavaScript\indumati\node_modules\@babel\parser\lib\index.js:10801:23)
